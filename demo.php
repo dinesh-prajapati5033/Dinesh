@@ -9,6 +9,3 @@
 <?php echo "halo tar khav"; ?>
 <?php echo "kem alya"; ?>
 <?php echo "hello dear"; ?>
-<?php echo "hello dear"; ?>
-<?php echo "halo tar khav"; ?>
-
