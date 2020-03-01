@@ -7,3 +7,4 @@
 <?php echo "halo tar khav"; ?>
 <?php echo "halo khav"; ?>
 <?php echo "halo tar khav"; ?>
+<?php echo "hello dear"; ?>
