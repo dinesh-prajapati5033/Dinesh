@@ -1,0 +1,6 @@
+/d :- [0-9] enter only number
+/D :- ^[0-9] allowed only character
+/w :- [0-9a-zA-Z] allowed number and charecter
+/W :- ^[0-9a-zA-Z] not alloed number and character
+/s :- single white space
+/S  :- allowed black space
